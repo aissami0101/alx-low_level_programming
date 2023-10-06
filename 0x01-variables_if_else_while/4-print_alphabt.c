@@ -10,7 +10,7 @@ int	main(void)
 {
 	char c;
 
-	for (c = 97; c < 122; c++)
+	for (c = 97; c <= 122; c++)
 	{
 		if (c != 101 && c != 113)
 		{
