@@ -8,14 +8,12 @@
 
 int _abs(int)
 {
-	int r;
-
-	if (r < 0)
+	if (int < 0)
 	{
-		return (-r);
+		return (-int);
 	}
-	else if (r >= 0)
+	else if (int >= 0)
 	{
-		return (r);
+		return (int);
 	}
 }
